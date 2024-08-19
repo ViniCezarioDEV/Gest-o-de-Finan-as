@@ -1,2 +1,3 @@
-# Gest-o-de-Finan-as
-Um projeto que visa a gestão financeira
+# Gestão de Finanças
+Um projeto que visa a gestão financeira<br>
+Projeto do PROA
